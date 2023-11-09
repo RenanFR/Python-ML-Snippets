@@ -31,7 +31,7 @@ I utilized a Java-based web scraper, leveraging HtmlUnit and Apache Commons CSV 
 | File Name                                           | Description                                                        |
 |-----------------------------------------------------|--------------------------------------------------------------------|
 | [players_data.csv](data/players_data.csv)           | Original data source extracted from a FIFA game specialized site.  |
-| [FIFA players - Age and market value correlation.ipynb](notebooks/FIFA players - Age and market value correlation.ipynb) | Explores the correlation between player age and market value. Provides insights into age-related trends in player market values. |
+| [FIFA_players_Age_MarketValue_Correlation.ipynb](notebooks/FIFA players - Age and market value correlation.ipynb) | Explores the correlation between player age and market value. Provides insights into age-related trends in player market values. |
 | [classify_player_position_with_decision_tree.ipynb](notebooks/classify_player_position_with_decision_tree.ipynb) | Preprocesses player data and trains a decision tree model to classify player positions. Highlights challenges faced and discusses steps for improvement. |
 | [preprocessed_players_data.csv](data/preprocessed_players_data.csv) | CSV file containing the preprocessed player data for further analysis and refinement. |
 
